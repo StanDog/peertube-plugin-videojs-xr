@@ -173,7 +173,7 @@ var goForVrPlayer = function(notifier, video, videojs) {
 
     console.log('goForVrPlayer :>> ');
 
-    document.getElementById('videojs-wrapper').children[0].classList.remove('vjs-peertube-skin');
+    //document.getElementById('videojs-wrapper').children[0].classList.remove('vjs-peertube-skin');
     // document.getElementById('videojs-wrapper').children[0].classList.add('vjs-default-skin');
 
  
