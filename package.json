@@ -1,8 +1,8 @@
 {
     "name": "peertube-plugin-videojs-xr",
     "description": "PeerTube plugin videojs-xr",
-    "version": "0.1.3",
-    "author": "jferrier",
+    "version": "0.1.4",
+    "author": "jferrier, Stanislav Eckert",
     "bugs": "",
     "clientScripts": [{
         "script": "client/common-client-plugin.js",
